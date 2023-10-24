@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geethasahithi999
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Product Management
+- Learning Data Analytics
 - 📫 Reach me at geetha_sahithi@outlook.com
 
 <!---
